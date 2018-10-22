@@ -1,0 +1,12 @@
+E:\SEIP.NET\Batch 20\2018.10.20\ListViewWebApp\ListViewWebApp\bin\ListViewWebApp.dll.config
+E:\SEIP.NET\Batch 20\2018.10.20\ListViewWebApp\ListViewWebApp\bin\ListViewWebApp.dll
+E:\SEIP.NET\Batch 20\2018.10.20\ListViewWebApp\ListViewWebApp\bin\ListViewWebApp.pdb
+E:\SEIP.NET\Batch 20\2018.10.20\ListViewWebApp\ListViewWebApp\obj\Debug\ListViewWebApp.csprojResolveAssemblyReference.cache
+E:\SEIP.NET\Batch 20\2018.10.20\ListViewWebApp\ListViewWebApp\obj\Debug\ListViewWebApp.dll
+E:\SEIP.NET\Batch 20\2018.10.20\ListViewWebApp\ListViewWebApp\obj\Debug\ListViewWebApp.pdb
+E:\BITM\2018.10.20\2018.10.20\ListViewWebApp\ListViewWebApp\bin\ListViewWebApp.dll.config
+E:\BITM\2018.10.20\2018.10.20\ListViewWebApp\ListViewWebApp\bin\ListViewWebApp.dll
+E:\BITM\2018.10.20\2018.10.20\ListViewWebApp\ListViewWebApp\bin\ListViewWebApp.pdb
+E:\BITM\2018.10.20\2018.10.20\ListViewWebApp\ListViewWebApp\obj\Debug\ListViewWebApp.csprojResolveAssemblyReference.cache
+E:\BITM\2018.10.20\2018.10.20\ListViewWebApp\ListViewWebApp\obj\Debug\ListViewWebApp.dll
+E:\BITM\2018.10.20\2018.10.20\ListViewWebApp\ListViewWebApp\obj\Debug\ListViewWebApp.pdb
